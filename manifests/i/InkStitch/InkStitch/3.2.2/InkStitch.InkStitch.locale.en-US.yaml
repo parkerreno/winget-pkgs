@@ -1,5 +1,5 @@
 # Created with Komac v1.11.0
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.5.0.schema.json
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
 
 PackageIdentifier: InkStitch.InkStitch
 PackageVersion: 3.2.2
@@ -16,4 +16,4 @@ Copyright: (c) 2025 Ink/Stitch
 ShortDescription: An open-source machine embroidery design platform based on Inkscape.
 ReleaseNotesUrl: https://inkstitch.org/en/2025-06-15-3.2.2
 ManifestType: defaultLocale
-ManifestVersion: 1.5.0
+ManifestVersion: 1.10.0
