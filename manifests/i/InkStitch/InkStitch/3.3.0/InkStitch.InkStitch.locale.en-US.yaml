@@ -3,8 +3,10 @@
 PackageIdentifier: InkStitch.InkStitch
 PackageVersion: 3.3.0
 PackageLocale: en-US
-Publisher: Ink/Stitch
+Publisher: InkStitch
 PublisherUrl: https://inkstitch.org/
+PublisherSupportUrl: https://inkstitch.org/docs/faq
+Author: InkStitch
 PackageName: Ink/Stitch
 PackageUrl: https://inkstitch.org/
 License: GPL-3.0
