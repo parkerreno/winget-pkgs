@@ -9,6 +9,7 @@ PublisherUrl: https://www.elegoo.com/
 Author: Elegoo
 PackageName: Elegoo Slicer
 PackageUrl: https://github.com/elegooofficial/ElegooSlicer
+PrivacyUrl: https://www.elegoo.com/pages/privacy-policy
 ReleaseNotesUrl: https://github.com/elegooofficial/ElegooSlicer/releases/tag/v1.5.3.4
 License: GNU AGPLv3
 LicenseUrl: https://github.com/elegooofficial/ElegooSlicer/blob/main/LICENSE.txt
