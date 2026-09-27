@@ -4,10 +4,11 @@ PackageVersion: 0.37.0
 PackageLocale: en-US
 PackageName: Sonora
 Publisher: SonoraHQ
-PublisherUrl: https://github.com/sonorahq/sonora
+PublisherUrl: https://sonorahq.org/
 PublisherSupportUrl: https://github.com/sonorahq/sonora/issues
 Author: SonoraHQ
 PackageUrl: https://github.com/sonorahq/sonora
+PrivacyUrl: https://github.com/sonorahq/sonora/blob/main/PRIVACY.md
 License: GPL-3.0
 LicenseUrl: https://github.com/sonorahq/sonora/blob/main/COPYING
 Copyright: Copyright (c) SonoraHQ
