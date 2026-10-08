@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: ArtCraft.VectorCraft
+PackageVersion: 0.4.0
+InstallerType: msi
+ReleaseDate: 2026-10-07
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/storytold/vectorcraft/releases/download/v0.4.0/vectorcraft-0.4.0-windows-x64.msi
+    InstallerSha256: 8E0E6102355AFF27F6CA7D13CE57B73E657C9F99190CAC21C67EBC3EFAB64055
+  - Architecture: x86
+    InstallerUrl: https://github.com/storytold/vectorcraft/releases/download/v0.4.0/vectorcraft-0.4.0-windows-x86.msi
+    InstallerSha256: 520D75481A2A6ED2082B9ECA84A0758D85852EC592BDAFB60DB18B86EEF23F00
+  - Architecture: arm64
+    InstallerUrl: https://github.com/storytold/vectorcraft/releases/download/v0.4.0/vectorcraft-0.4.0-windows-arm64.msi
+    InstallerSha256: DA20767263E5537AC5F839ED5F95C75267FD402FA443F5520036A5796A4D319F
+ManifestType: installer
+ManifestVersion: 1.12.0

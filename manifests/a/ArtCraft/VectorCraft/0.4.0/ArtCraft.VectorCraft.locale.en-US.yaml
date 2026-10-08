@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: ArtCraft.VectorCraft
+PackageVersion: 0.4.0
+PackageLocale: en-US
+Publisher: ArtCraft
+PublisherUrl: https://getartcraft.com/apps/vectorcraft
+PublisherSupportUrl: https://github.com/storytold/vectorcraft/issues
+Author: ArtCraft
+PackageName: VectorCraft
+PackageUrl: https://github.com/storytold/vectorcraft
+License: MIT, Apache-2.0
+LicenseUrl: https://github.com/storytold/vectorcraft/blob/main/NOTICE
+Copyright: Copyright (c) ArtCraft Team and the VectorCraft contributors
+ShortDescription: An open-source, clean-room reimplementation of Adobe Illustrator written in pure Rust for vector illustration and design.
+Description: VectorCraft is the vector illustration studio, a native desktop vector editor written entirely in Rust. It supports paths, live effects, layers, clipping masks, text, grids and an MCP server for agents, and runs offline with no account required.
+Moniker: vectorcraft
+Tags:
+  - vector
+  - vector-editor
+  - illustrator-alternative
+  - illustration
+  - rust
+ReleaseNotesUrl: https://github.com/storytold/vectorcraft/releases/tag/v0.4.0
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
