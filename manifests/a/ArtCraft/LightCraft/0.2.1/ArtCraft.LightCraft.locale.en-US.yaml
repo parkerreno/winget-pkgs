@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: ArtCraft.LightCraft
+PackageVersion: 0.2.1
+PackageLocale: en-US
+Publisher: ArtCraft
+PublisherUrl: https://getartcraft.com/apps/lightcraft
+PublisherSupportUrl: https://github.com/storytold/lightcraft/issues
+Author: ArtCraft
+PackageName: LightCraft
+PackageUrl: https://github.com/storytold/lightcraft
+License: MIT, Apache-2.0
+LicenseUrl: https://github.com/storytold/lightcraft/blob/main/NOTICE
+Copyright: Copyright (c) ArtCraft Team and the LightCraft contributors
+ShortDescription: An open-source, clean-room reimplementation of Adobe Lightroom written in pure Rust for photo library management and raw development.
+Description: LightCraft is the photo library and raw development studio, a native desktop photo editor written entirely in Rust. It supports culling, ratings, metadata, non-destructive raw development, adjustments and an MCP server for agents, and runs offline with no account required.
+Moniker: lightcraft
+Tags:
+  - photo
+  - photo-editor
+  - lightroom-alternative
+  - raw-development
+  - rust
+ReleaseNotesUrl: https://github.com/storytold/lightcraft/releases/tag/v0.2.1
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
