@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
+
+PackageIdentifier: Nvidia.PAIR
+PackageVersion: 1.0.0
+InstallerLocale: en-US
+Platform:
+- Windows.Desktop
+InstallerType: exe
+Scope: machine
+InstallModes:
+- interactive
+- silent
+InstallerSwitches:
+  Silent: /S
+  SilentWithProgress: /S
+UpgradeBehavior: install
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/NVIDIA/Personal-AI-Router/releases/download/v1.0.0/NVPAIR-Setup-1.0.0-x64.exe
+  InstallerSha256: a8297524b5f805e4f4f35985a9be87406a62866e7224b4f2d5b4ddf7d3808e26
+- Architecture: arm64
+  InstallerUrl: https://github.com/NVIDIA/Personal-AI-Router/releases/download/v1.0.0/NVPAIR-Setup-1.0.0-arm64.exe
+  InstallerSha256: ba8ddbfe94ac3d03a6a5d268379be92c964c5922c263dee535b8f83192843a8a
+ManifestType: installer
+ManifestVersion: 1.28.0
